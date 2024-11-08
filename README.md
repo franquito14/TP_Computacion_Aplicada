@@ -9,6 +9,7 @@ COMPUTACION APLICADA
 Integrantes:
 Franco Leo Bangert
 Nicolás Augusto Díaz
+Obregón María Florencia
 
 NOTA:Todos los directorios comprimidos se encuentran en la rama master.
 
